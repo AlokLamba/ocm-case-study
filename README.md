@@ -6,4 +6,5 @@ Inside db directory
 
 # Admin login credentials
 Username: ocm
+<br/>
 Password: *&^%RFGBHVGFCR%
